@@ -18,3 +18,48 @@ border: none;
 border-radius: 8px;
 padding: 9px 25px;
 cursor: pointer;}
+.img-height{
+    min-height:500px !important;
+
+}
+.cat1{
+    background-color: orange;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.cat2{
+    background-color: orchid;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.cat3{
+    background-color: blue;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.h1-color{
+    color: white;
+}
+.img-width{
+    width: 100px;
+
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
